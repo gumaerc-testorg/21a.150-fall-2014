@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 690da65b-95d8-948f-f435-1c15872746ce
 title: Research Project
 uid: 2ea3775e-8dff-6849-e9d6-4ff4ef808ccd
