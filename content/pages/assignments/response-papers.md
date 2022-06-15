@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides prompts for the short response papers required
+  for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
